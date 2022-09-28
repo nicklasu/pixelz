@@ -8,7 +8,7 @@ A Very simple image manipulation experiment program using Image module from Pill
 
 
 I am looping the pixels of the image, and moving them / overwriting to create interesting effects.
-You can change the image to whatever you want as long as it is one of the listed here:
+You can change the image to whatever you want as long as the file type is listed here:
 
 https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html
 
